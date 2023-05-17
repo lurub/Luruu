@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Rubino</h1>
-<h3 align="center">A Machine Learning and Big Data Msc student</h3>
+<h3 align="center">A Machine Learning and Big Data MSc student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luruu&label=Profile%20views&color=0e75b6&style=flat" alt="luruu" /> </p>
 
